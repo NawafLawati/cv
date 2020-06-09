@@ -1,0 +1,21 @@
+  body{
+    background-color: #fff4e0;
+    font-family: sans-serif;
+  }
+  hr{
+    border-style: dotted none none;
+    width: 6%;
+    border-color: #9fe8fa;
+    border-width: 5px;
+  }
+  img:hover{
+    background-color: #73d2f3;
+  }
+  h1{
+    color: #26baee;
+    font-family: Rockwell;
+  }
+  h3{
+    color: #26baee;
+    font-family: Rockwell;
+  }

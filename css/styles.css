@@ -5,6 +5,7 @@
 }
 
 .middle-container{
+  padding: 0;
 }
 
 .bottom-container{
@@ -65,12 +66,13 @@ hr{
 div{
   margin: 0;
 }
+
 .BUTTON_DQS {
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px;
    font-family: 'Quicksand', sans-serif;
-   color: ;
+   color: #ffffff;
    font-size: 41px;
    font-weight: 600;
    padding: 40px;
@@ -79,7 +81,7 @@ div{
    -webkit-box-shadow: 1px 1px 20px 0px #000000;
    -moz-box-shadow: 1px 1px 20px 0px #000000;
    text-shadow: 1px 1px 20px #000000;
-   border: solid #337FED 1px;
+   border: solid #ffffff 1px;
    text-decoration: none;
    display: inline-block;
    cursor: pointer;
